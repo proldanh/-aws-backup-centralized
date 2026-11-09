@@ -1,0 +1,14 @@
+# Week 1 archive - keep locally, don't upload
+Week-1.zip
+
+# Sensitive credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
