@@ -14,3 +14,11 @@ Week-3.zip
 *.log
 .DS_Store
 Thumbs.db
+# Exclude weekly ZIP archives
+Week-1/*.zip
+Week-2/*.zip
+Week-3/*.zip
+Week-4/*.zip
+
+# Exclude Week 4 archive
+Week-4.zip
