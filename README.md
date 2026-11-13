@@ -17,4 +17,4 @@ final-report/: báo cáo cuối kỳ, sơ đồ kiến trúc cuối, báo cáo c
 demo/: video demo
 Ghi chú về việc dùng AI
 
-Em dùng Claude (Anthropic) để tham khảo, hướng dẫn cấu hình và gỡ lỗi. Mọi tài nguyên được em tự triển khai và chạy trên AWS Learner Lab, và em giải thích được các cấu hình.
+
